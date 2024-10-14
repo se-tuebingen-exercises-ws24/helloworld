@@ -8,7 +8,7 @@ To run the project, you need to have a few things installed:
 - a recent version of the JDK (>= 12)
 - the sbt build tool
 
-If you are missing a dependency, the [forum](https://ps-forum.cs.uni-tuebingen.de/c/se/guides) will provide detailed guides on how to install them.
+If you are missing a dependency, the [forum](https://ps-forum.cs.uni-tuebingen.de/c/se/anleitungen-und-erklaerungen) will provide detailed guides on how to install them.
 
 ## Running the Program
 Working with sbt and Scala will be covered in a separate homework, so do not worry about the details, so far.
