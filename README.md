@@ -60,5 +60,5 @@ Apparently, this application is running on Mac OS X with JDK 19.
 sbt:helloworld>
 ```
 The application will ask you for your name and then print back a simple greeting,
-and your OS and JDK versions.
+and your operating system and JDK versions.
 After exiting, sbt is now ready to take the next command.
