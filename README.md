@@ -59,5 +59,6 @@ Apparently, this application is running on Mac OS X with JDK 19.
 [success] Total time: 2 s, completed 12 Oct 2022, 17:59:26
 sbt:helloworld>
 ```
-The application will ask you for your name and then print back a simple greeting.
+The application will ask you for your name and then print back a simple greeting,
+and your OS and JDK versions.
 After exiting, sbt is now ready to take the next command.
